@@ -47,8 +47,6 @@ localhost:8080/api/{character_name}
 
 Where {character_name} is the name of the character, e.g. Luke Skywalker.
 
-https://api.starwarsquotes.com/category/{category_name}
-
 ![img](images/BYCHARACTER.png)
 
 # Contact
