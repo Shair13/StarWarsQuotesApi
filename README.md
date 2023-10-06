@@ -13,7 +13,7 @@ To add a quote, simply execute a POST query at the following address:
 
 localhost:8080/api
 
-![Star Wars Logo](images/POST.png)
+![img](images/POST.png)
 
 ### Delete quote
 
@@ -21,7 +21,7 @@ To delete a quote, simply execute a DELETE query at the following address:
 
 localhost:8080/api?id={id_number}
 
-![Star Wars Logo](images/DELETE.png)
+![img](images/DELETE.png)
 
 ### All quotes
 
@@ -29,7 +29,7 @@ To get all quotes, simply execute a GET query at the following address:
 
 localhost:8080/api
 
-![Star Wars Logo](images/GET.png)
+![img](images/GET.png)
 
 # Random quote
 
@@ -43,13 +43,17 @@ The response will contain a random Star Wars quote in JSON format.
 
 To get a quote about a specific character, perform a GET query at:
 
-localhost:8080/api/character/{character_name}
+localhost:8080/api/{character_name}
 
 Where {character_name} is the name of the character, e.g. Luke Skywalker.
 
 https://api.starwarsquotes.com/category/{category_name}
 
-//
+![img](images/BYCHARACTER.png)
 
-May the Force be with you! 🌌🚀🌟
+# Contact
+
+Contact If you have questions or comments regarding this API, please contact me at shad350@gmail.com.
+
+# May the Force be with you! 🌌🚀🌟
 
