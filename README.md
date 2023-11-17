@@ -1,4 +1,4 @@
-# API Star Wars - Cytaty
+# API Star Wars - Quotations
 
 ![Star Wars Logo](images/Star_Wars_Logo.svg.png)
 
