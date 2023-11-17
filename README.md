@@ -53,5 +53,5 @@ Where {character_name} is the name of the character, e.g. Luke Skywalker.
 
 Contact If you have questions or comments regarding this API, please contact me at cezary.wozakowski@gmail.com.
 
-# May the Force be with you! 🌌🚀🌟
+# May the Force be with You! 🌌🚀🌟
 
